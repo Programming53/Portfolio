@@ -1,0 +1,24 @@
+body {
+    color: whitesmoke;
+    background-color: grey;
+    background-image: url("https://images.unsplash.com/photo-1444080748397-f442aa95c3e5?ixlib=rb-4.0.3");
+    background-repeat: no-repeat;
+background-size: cover;
+}
+
+.a {
+    font-size: large;
+    color: red;
+}
+
+.disc {
+    color: blue;
+}
+
+.yout {
+    color: red;
+}
+
+.twit {
+    color: aqua;
+}
